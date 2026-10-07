@@ -4,7 +4,7 @@ A Blender add-on that checks meshes and UVs the way a game engine sees them, fix
 
 ![Before and after: a UV layout with an island outside the tile and overlapping islands, then repacked at one texel density](cover.png)
 
-**Get it:** https://croucamp.gumroad.com/l/asset-preflight ($19, 30-day refund, includes a guide and a sample scene)
+**Get it:** https://sonneblomdigitaal.gumroad.com/l/asset-preflight ($19, 30-day refund, includes a guide and a sample scene)
 
 ## Free check-only version
 `assetpreflight_check-1.0.0.zip` in this repo is a **free, complete checker** (no fixes): it reports every problem below for one object or a whole selection and never changes your objects. The paid version adds the verified one-click fixes. Install either as a zip (Edit > Preferences > Get Extensions > Install from Disk).
